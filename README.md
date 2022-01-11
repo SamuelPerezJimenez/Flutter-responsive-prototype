@@ -1,16 +1,18 @@
 # responsive_prototype
 
-A new Flutter project.
+This project shows one way to implement responsiveness in a Flutter project, defining breakpoints (screen sizes) and adapting the widgets.
 
-## Getting Started
+- [My Linkedin](https://www.linkedin.com/in/samuel-arqu%C3%ADmedes-p%C3%A9rez-jim%C3%A9nez-1387a018b/)
+- [Torre Genome](https://torre.co/en/perezjsamuel)
+- Email: [perezjsamuel@gmail.com](mailto:admin@cloudhadoop.com)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Large screen
+<img width="1675" alt="large_screen" src="https://user-images.githubusercontent.com/56012784/149004218-00baa39d-4c19-45e2-a0f6-242870c1dde1.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Medium screen
+<img width="1242" alt="medium_screen" src="https://user-images.githubusercontent.com/56012784/149004238-951a52e1-6761-45c0-8dd0-15980e7330eb.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Small screen
+<img width="700" alt="small_screeen" src="https://user-images.githubusercontent.com/56012784/149004242-0534a04c-4e63-4a95-a421-e5bb2928f424.png">
